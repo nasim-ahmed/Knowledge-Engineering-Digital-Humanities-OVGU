@@ -6,5 +6,5 @@ Basic and advanced concepts of natural language processing, information filterin
 - Parse trees
 - Word Sense Disambiguation
 – Sentiment Analysis
-- TF-IDF & knoedge graphs
+- TF-IDF & knowledge graphs
 - Topic Modeling
