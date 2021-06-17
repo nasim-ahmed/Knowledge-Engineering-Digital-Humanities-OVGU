@@ -8,3 +8,4 @@ Basic and advanced concepts of natural language processing, information filterin
 – Sentiment Analysis
 - TF-IDF & knowledge graphs
 - Topic Modeling
+- Optical Character Recognition(OCR)
